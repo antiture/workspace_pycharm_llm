@@ -1,3 +1,11 @@
-﻿langchain1.2_tutorial/.env
-langgraph/.idea
+﻿langchain1.2_tutorial/.env 
+langgraph/.vscode/
+langgraph/.idea/
+langgraph/replacements.txt
+langgraph/all-MiniLM-L6-v2/
+langgraph/.msi
+langgraph/output/
+langgraph/CLAUDE.local.md
+langgraph/.langgraph_api/
+langgraph/.antigravity_cli/
 langgraph/.env
