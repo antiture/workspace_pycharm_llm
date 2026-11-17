@@ -10,3 +10,4 @@ langgraph/.langgraph_api/
 langgraph/.antigravity_cli/
 langgraph/.env
 langgraph/hitl_demo/.langgraph_api
+langgraph/hitl_demo/.env
